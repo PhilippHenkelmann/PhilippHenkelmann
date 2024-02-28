@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Soumer faviourit dish is Pasta arrabiata and steak
+- I am from syria
+- I love cycling 
 
 <!---
 PhilippHenkelmann/PhilippHenkelmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
