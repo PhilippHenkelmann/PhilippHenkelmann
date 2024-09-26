@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhilippHenkelmann
-- 👀 I’m interested in ...fossils, peppers, movies, videogames.
+- 👀 I’m interested in ...culture, fossils, peppers, movies, videogames.
 - 🌱 I’m currently learning ... AWS, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
